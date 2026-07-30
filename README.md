@@ -12,7 +12,7 @@ A simple and lightweight utility to quickly modify the options.ini file for **Th
 
 1. Download and launch the application.  
 2. Adjust your desired settings in the interface.  
-3. Click the **Save** button to write the changes to your configuration file.
+
 
 ##  **Security & VirusTotal**
 
